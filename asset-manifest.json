@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LoneWolf/static/css/main.18621e71.css",
+    "main.js": "/LoneWolf/static/js/main.eb436529.js",
+    "static/media/icon.png": "/LoneWolf/static/media/icon.69372ce48fe87a7de2a7.png",
+    "static/media/BBT.png": "/LoneWolf/static/media/BBT.190ffdd4b8b864c4ada2.png",
+    "index.html": "/LoneWolf/index.html",
+    "main.18621e71.css.map": "/LoneWolf/static/css/main.18621e71.css.map",
+    "main.eb436529.js.map": "/LoneWolf/static/js/main.eb436529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18621e71.css",
+    "static/js/main.eb436529.js"
+  ]
+}
